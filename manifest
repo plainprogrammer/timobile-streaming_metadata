@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Streaming Media Metadata
+author: James Thompson
+license: MIT
+copyright: Copyright (c) 2012 by Plain Programs LLC
+
+
+# these should not be edited
+name: streaming_metadata
+moduleid: com.plainprograms.streamingmetadata
+guid: 38a9ec16-bfc2-4cc7-9788-1196cffb14bb
+platform: iphone
+minsdk: 1.8.1
